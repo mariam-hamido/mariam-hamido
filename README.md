@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**mariam-hamido/mariam-hamido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+👋 Hi, I’m Mariam Hamido  
+I’m a web developer from Egypt, specializing in HTML, CSS & JavaScript.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Web development (frontend)  
+- Responsive design  
+- BootStrap  
+
+## Projects
+See my pinned repos below.  
+
+## Connect with me
+[LinkedIn](https://www.linkedin.com/in/mariamhamido)  
