@@ -28,7 +28,7 @@ Currently, I'm focused on growing as a developer, building practical projects, a
 
 ---
 
-# 🚀 Featured Projects (Cards Style)
+# 🚀 Featured Projects 
 
 <p align="center">
   <a href="https://github.com/HexaDevs6/planora">
