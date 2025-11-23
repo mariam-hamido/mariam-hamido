@@ -2,13 +2,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=E935C8&center=true&vCenter=true&width=500&lines=Mariam+Hamido;Front-End+Developer;React+%7C+NEXT+%7C+JavaScript;Welcome+To+My+GitHub+Profile+👋" />
 </p>
 
-# 💫 About Me:
-🔭 I’m currently working on improving and expanding **Planora – Event Management Web App** and polishing my **freelance portfolio with a blog system & admin panel**.<br>
-👯 I’m looking to collaborate on **open-source front-end projects, React components, SaaS dashboards, and team-based applications**.<br>
-🤝 I’m looking for help with **advanced React patterns, Next.js best practices, and scalable application architecture**.<br>
-🌱 I’m currently learning **Next.js, TypeScript, Supabase advanced features, React Query / RTK Query, and modern UI/UX practices**.<br>
-💬 Ask me about **React, TailwindCSS, Redux Toolkit, Supabase Auth, Front-End workflows, and building responsive, clean UIs**.<br>
-⚡ Fun fact: I transitioned into tech after 7 years in project management — and now I’m building event systems, admin panels, and real applications I once only dreamed about.
+## 💫 About Me
+
+I'm a Front-End Developer focused on building fast, responsive, and user-friendly web interfaces using **React**, **JavaScript**, and modern UI frameworks.  
+My background in **UI/UX design** helps me turn ideas into clean layouts and intuitive user experiences that feel smooth across all screen sizes.
+
+I’ve worked on real-world projects — including **Planora (Event Management System)** and multiple freelance websites — where I handled API integration, responsive design, state management, and delivering clean, maintainable code.
+
+I’m continuously improving my skills in **Next.js, React Query, TailwindCSS, Supabase**, and scalable front-end architecture.  
+I enjoy solving problems, learning new technologies, and contributing to projects that combine good design with solid engineering.
+
+Currently, I'm focused on growing as a developer, building practical projects, and collaborating with teams where I can learn, add value, and level up my skills.
 
 ---
 
