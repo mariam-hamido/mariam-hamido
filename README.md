@@ -97,15 +97,4 @@ Currently, I'm focused on growing as a developer, building practical projects, a
 
 ---
 
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=mariam-hamido&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=mariam-hamido&icon=2&color=1)](https://visitcount.itsvg.in)
 
