@@ -12,9 +12,15 @@
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariamhamido/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mariamhamido.mi@gmail.com)
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/mariamhamido/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  <a href="mailto:mariamhamido.mi@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
+  </a>
+</p>
 
 ---
 
