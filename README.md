@@ -76,23 +76,14 @@ Currently, I'm focused on growing as a developer, building practical projects, a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mariam-hamido&show_icons=true&theme=outrun&include_all_commits=true&count_private=true&hide_border=true" 
-    height="160"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-hamido&layout=compact&theme=outrun&hide_border=true" 
-    height="160"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mariam-hamido&show_icons=true&theme=transparent&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-hamido&layout=compact&theme=transparent&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=mariam-hamido&theme=outrun&hide_border=true" 
-    height="180"
-  />
+  <img src="https://streak-stats.demolab.com?user=mariam-hamido&theme=transparent&hide_border=true" height="150" />
 </p>
+
 
 ---
 
