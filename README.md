@@ -15,10 +15,10 @@
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/mariamhamido/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45"/>
   </a>
   <a href="mailto:mariamhamido.mi@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
+    <img src="https://img.icons8.com/color/48/gmail.png" width="45"/>
   </a>
 </p>
 
